@@ -1,5 +1,8 @@
-**How to create test automation framework from scratch using appium, testNG, cucumber.**
-Tools & Technologies :
+**What is a test automation framework ?**
+
+A test automation framework is essentially a set of guidelines for creating and designing test cases. It is a conceptual part of automated testing that helps testers to use and maintain resources more efficiently.
+
+**Tools & Technologies :**
 1. Java
 2. Appium
 3. TestNG
@@ -7,10 +10,6 @@ Tools & Technologies :
 5. Maven
 6. Extent
 7. IntelliJ
-
-**What is a test automation framework ?**
-
-A test automation framework is essentially a set of guidelines for creating and designing test cases. It is a conceptual part of automated testing that helps testers to use and maintain resources more efficiently.
 
 **To get app package and activity name use below command:**
 
